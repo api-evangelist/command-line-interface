@@ -1,10 +1,58 @@
 [
 	{
+		"curated_id": "pXpEeQak8rrgeqMFHnHNlgCJVKXO8LKDOYWBfRsjfaeD13cnAYxB93hljzNEWq10EKaG9G1231231232vZktX59TFg8w117117",
+		"item_date": "2016-09-21 14:08:13",
+		"title": "Check out our webtask cli It just doesnt get any easier",
+		"url": "https://webtask.io/cli",
+		"domain": "webtask.io",
+		"image": ""
+	},
+	{
+		"curated_id": "QyCaKUIlEkONSmsuAOwn8KuIaF3YTUybDNeQL123WoOvlsjzCXLwrwfPMxk7j0l81bhUNEoR116QyePfj123aj1166WOgQ117117",
+		"item_date": "2016-09-17 00:00:00",
+		"title": "Hack This Become a Command Line Assassin",
+		"url": "http://motherboard.vice.com/read/hack-this-a-command-line-quick-start",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VAqjVyfgUHpismD7zWHV5aiJIdffdQ1vHc123HJ0R0YNN1r9Z116GJuB9VgivAutIC1qa3i4cqQxGlHRLiHiwqUoCQ117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "Running Powershell on Google Cloud SDK",
+		"url": "https://cloudplatform.googleblog.com/2016/09/running-Powershell-on-Google-Cloud-SDK.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Lo3HXHEaiesdry2RlWZbzXkkvdK123eYqMCaVkExlqlS7123Rg5rx3690CMReeVY116msguXGopvgc1Ejoky81qebgKA117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "How to Use the cURL Command to Examine the Contents of a Web API039s Header",
+		"url": "http://www.programmableweb.com/news/how-to-use-curl-command-to-examine-contents-web-apis-header/how-to/2016/08/29",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1pkHu5JstYO123bGFpbgYfqZDIntucAnB3oENri7TbkCMZDRepMpaCBviZmVcEMMSqZ1IvrmQ6jlVHFgGtJY0rtg117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "Getting Started and Testing With Angular CLI and Angular 2 RC5  Part 2",
+		"url": "https://dzone.com/articles/getting-started-and-testing-with-angular-cli-and-angular-2-rc5-part-2",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wkMd116glY4GqK6M7uXKQWfFajiqiE2tDkBPIs7vfSR81bxgL8XJP7nPJcDs8aSCMGtQHybpRMHGpJaG771Lf5fQ117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "Have You Met the CLI",
+		"url": "http://codurance.com/technology/architecture/2016/08/20/meet-the-cli/",
+		"domain": "codurance.com",
+		"image": ""
+	},
+	{
 		"curated_id": "kcc04g2VltteTZMa767KD1sxdgXs116kMTkm123UA9vgNHcvp1238zq65iq6RELgDA0zfmUzVVW5YBv00DFbO2DehQ116w117117",
 		"item_date": "2016-08-25 00:00:00",
 		"title": "Reactotron  A CLI  OS X app for inspecting ReactJS  React Native apps",
-		"url": "https://www.producthunt.com/r/951348639fbef4/73884?app_id=339",
-		"domain": "www.producthunt.com",
+		"url": "https://github.com/reactotron/reactotron",
+		"domain": "github.com",
 		"image": ""
 	},
 	{
