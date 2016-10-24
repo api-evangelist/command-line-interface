@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "qXGi6PGcLVvjwolK8IEcgm2bc3iSNZG0CEA8BXuqanQEPyqi8Xuwb47Ycopihgrfsb3cEX4hdNUGdaCR8a8ONg117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Introducing Google Cloud Shells new code editor",
+		"url": "https://cloudplatform.googleblog.com/2016/10/introducing-Google-Cloud-Shels-new-code-editor.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "otRt0N1233mPx3t9U116DF7yX123Bb4VtWxIr9ycw6jG9jxYeWX0iWlPWPCbdBS7E5s9yQX6qGF7m641P2m81d5CHVdw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Google Cloud Shell New Code Editor to Enable EndtoEnd Cloud Development",
+		"url": "http://www.infoq.com/news/2016/10/google-cloud-shell-editor?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
 		"curated_id": "sqBRIjeSdbfXovMAtLPKbWiWsKp8D3N116i1FKgccysoyCMK2Xwu5gGv9zS2J8qGWeGFGCUxlIWNkZszxQCu1V7w117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "Adding a Verb to the dotnet CLI Tooling",
