@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "pkaug123Zog116N6VUOCQ9ccgT8nado1ngrY6uz7GytIISv4xK1q93qTuy49iqvQVDwjjD116oFTfShWh2Y123qWGP40fQ117117",
+		"item_date": "2017-01-19 00:00:00",
+		"title": "Announcing the LoopBack CLI",
+		"url": "https://strongloop.com/strongblog/announcing-the-loopback-cli/",
+		"domain": "strongloop.com",
+		"image": ""
+	},
+	{
+		"curated_id": "iJvLutD123kB123cIRJmT3a5yiLsdqWhhQeCTE4qGH4elVThoXIO123Ao1g6SwYtaBwBjW8oRAHl116Gcr13PQ8qVW44WA117117",
+		"item_date": "2017-01-20 00:00:00",
+		"title": "The commandline for cybersec",
+		"url": "http://blog.erratasec.com/2017/01/the-command-line-for-cybersec.html",
+		"domain": "blog.erratasec.com",
+		"image": ""
+	},
+	{
 		"curated_id": "u7Ep39gl4qtbKZGc0kq123Fgx123491yRmCWZ6TJVw116L9c0LuHo5OQDVWAKXVWGwAqyiAMckJ9K8zCvgaxRqayoRHg117117",
 		"item_date": "2017-01-11 00:00:00",
 		"title": "Code Coverage now available for PowerShell Core",
