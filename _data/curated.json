@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "EYLVFE6yHqW5e3U6MUrkjOkA1KaYlAQmHYkegUCNbbrnJF4eW2PthzH0W9wON1jZFukoQtaVgIMC2Sb0TxuDeQ117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "PowerShell Remoting Artifacts An Introduction",
+		"url": "http://resources.infosecinstitute.com/powershell-remoting-artifacts-part-1/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
 		"curated_id": "ER116HtciY8iBhmayaYtyqkm1230agmqxBA1yYmQFFlA5pF0IUlgDUKis92VVGrPIdwk2blqKs4urNwGqSeLlEVN2w117117",
 		"item_date": "2017-03-03 00:00:00",
 		"title": "Introducing Python Fire a library for automatically generating command line interfaces",
