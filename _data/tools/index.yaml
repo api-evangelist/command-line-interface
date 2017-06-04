@@ -1,193 +1,303 @@
-- slug: bluefrisby
-  name: bluefrisby
-  description: An API testing tool using API Blueprint and Frisby.js
-  url: 'https://github.com/localmed/bluefrisby/'
+- slug: rack
+  name: rack
+  description: A CLI for Rackspace
+  url: 'https://github.com/rackspace/rack'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,API Blueprint,Frisby.js,General'
-- slug: entropy
-  name: Entropy
-  description: An entropy and failure injection management API for Docker platforms.
-  url: 'https://github.com/buildertools/entropy'
+  tags: 'Command Line Interface,Cloud'
+- slug: phpclitools
+  name: php-cli-tools
+  description: A collection of tools to help with PHP command line utilities
+  url: 'https://github.com/wp-cli/php-cli-tools'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
-  github: 'https://github.com/buildertools/'
+  github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Containers,Testing,Performance,General'
-- slug: dredd
-  name: dredd
-  description: API Blueprint testing tool
-  url: 'https://github.com/apiaryio/dredd/'
+  tags: 'WordPress,Command Line Interface'
+- slug: apimancli
+  name: apiman-cli
+  description: A Command Line Interface (CLI) for apiman
+  url: 'https://github.com/apiman/apiman-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: doctl
+  name: doctl
+  description: A command line tool for DigitalOcean services
+  url: 'https://github.com/digitalocean/doctl'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: googleanalytics
+  name: google-analytics
+  description: A command-line interface and Python API wrapper for Google Analytics.
+  url: 'https://github.com/debrouwere/google-analytics'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Analysis'
+- slug: githubcli
+  name: github-cli
+  description: A command-line interface to the GitHub Issues API v2.
+  url: 'https://github.com/jsmits/github-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Issues'
+- slug: diffbotpowershellclient
+  name: diffbot-powershell-client
+  description: A Diffbot API client for Powershell
+  url: 'https://github.com/diffbot/diffbot-powershell-client'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Scraping,SDK,PowerShell,Command Line Interface'
+- slug: cli
+  name: cli
+  description: A small package for building command line apps in Go
+  url: 'https://github.com/micro/cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: dataqualitycli
+  name: data-quality-cli
+  description: CLI for creating databases for Data Quality Dashboards.
+  url: 'https://github.com/frictionlessdata/data-quality-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Data,Command Line Interface'
+- slug: dockercloudcli
+  name: dockercloud-cli
+  description: CLI for Docker Cloud
+  url: 'https://github.com/docker/dockercloud-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Command Line Interface'
+- slug: reindexcli
+  name: reindex-cli
+  description: CLI for Reindex
+  url: 'https://github.com/reindexio/reindex-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: algorithmiacli
+  name: algorithmia-cli
+  description: CLI interface to Algorithmia algorithms and data API
+  url: 'https://github.com/algorithmiaio/algorithmia-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Algorithms'
+- slug: dropboxapicommand
+  name: dropbox-api-command
+  description: command line interface to access Dropbox API
+  url: 'https://github.com/s-aska/dropbox-api-command'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: mapboxclipy
+  name: mapbox-cli-py
+  description: Command line interface to Mapbox Web Services
+  url: 'https://github.com/mapbox/mapbox-cli-py'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: ironcli
+  name: ironcli
+  description: Command line tool for the Iron.io platform.
+  url: 'https://github.com/iron-io/ironcli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: cli
+  name: cli
+  description: Command-line client for Tutum
+  url: 'https://github.com/tutumcloud/cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: arangodbdcos
+  name: arangodb-dcos
+  description: DCOS CLI for ArangoDB
+  url: 'https://github.com/arangodb/arangodb-dcos'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Database'
+- slug: newmandocker
+  name: newman-docker
+  description: Docker images for Newman Collection Runner
+  url: 'https://github.com/postmanlabs/newman-docker'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Command Line Interface,Clients'
+- slug: fbcmd
+  name: fbcmd
+  description: Facebook Command Line Interface
+  url: 'https://github.com/dtompkins/fbcmd'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Social'
+- slug: gcalcli
+  name: gcalcli
+  description: Google Calendar Command Line Interface
+  url: 'https://github.com/insanum/gcalcli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Calendaring'
+- slug: cli
+  name: cli
+  description: Heroku CLI
+  url: 'https://github.com/heroku/cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: mediumcli
+  name: medium-cli
+  description: 'Medium for Hackers - :computer: A CLI for Medium Stories.'
+  url: 'https://github.com/djadmin/medium-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: newman
+  name: newman
+  description: Newman is a command-line collection runner for Postman
+  url: 'https://github.com/postmanlabs/newman'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Clients'
+- slug: powershellaylien
+  name: PowerShellAylien
+  description: >-
+    PowerShell Module to interact with AYLIEN Text Analysis API - a package
+    consisting of eight differen
+  url: 'https://github.com/AYLIEN/PowerShellAylien'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Scraping,Command Line Interface'
+- slug: apiary-cli
+  name: Apiary CLI
+  description: >-
+    The Apiary CLI gem is a command line tool for developing and previewing API
+    Blueprint documents locally. It can also be used for pushing updated
+    documents to and fetching existing documents from Apiary.io.
+  url: 'https://client.apiary.io/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/dredd-head.png
-  tags: 'API Blueprint,Testing,General'
-- slug: blazemeterjmeterplugin
-  name: blazemeter-jmeter-plugin
-  description: blazemeter-jmeter-plugin
-  url: 'https://github.com/Blazemeter/blazemeter-jmeter-plugin'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/apiary-icon.png
+  tags: 'API Blueprint,API Blueprint Core,Command Line Interface,Command Line'
+- slug: firebasetools
+  name: firebase-tools
+  description: The Firebase Command Line Tools
+  url: 'https://github.com/firebase/firebase-tools'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,General'
-- slug: cucumber4apiblueprint
-  name: cucumber-4-api-blueprint
-  description: >-
-    Cucumber predefined step definitions for RESTful API testing using API
-    Blueprint by Apiary
-  url: 'https://github.com/stekycz/cucumber-4-api-blueprint/'
+  tags: Command Line Interface
+- slug: restful
+  name: restful
+  description: Unlocking the potential of the WP REST API at the command line
+  url: 'https://github.com/wp-cli/restful'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,Cucumber,API Blueprint,General'
-- slug: cucumber-api-steps
-  name: Cucumber API Steps
-  description: Cucumber steps to easily test REST-based XML and JSON APIs
-  url: 'https://github.com/jayzes/cucumber-api-steps'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,General'
-- slug: hippie
-  name: Hippie
-  description: End-to-end API testing made easy
-  url: 'https://github.com/vesln/hippie'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,General'
-- slug: httpexpect
-  name: HTTPExpect
-  description: End-to-end HTTP and REST API testing for Go.
-  url: 'https://github.com/gavv/httpexpect'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,General'
-- slug: dnstest
-  name: dnstest
-  description: Erlang app for testing authoritative DNS servers for compliance.
-  url: 'https://github.com/dnsimple/dnstest'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'DNS,Testing,General'
-- slug: frisby.js
-  name: Frisby.js
-  description: >-
-    Frisby is a REST API testing framework built on node.js and Jasmine that
-    makes&nbsp;testing API endpoints easy, fast, and fun.
-  url: 'http://frisbyjs.com/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/frisby-js.png
-  tags: 'Testing,JavaScript,General'
-- slug: requestbin
-  name: requestbin
-  description: Inspect HTTP requests. Debug webhooks. Originally created by @progrium.
-  url: 'https://github.com/Runscope/requestbin'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,Webhooks,General'
-- slug: loadui
-  name: LoadUI
-  description: >-
-    LoadUI is a Open Source Load Testing solution that is free and
-    cross-platform. With a visual, drag-and-drop interface, it allows you to
-    create, configure and redistribute your Load Tests interactively and in
-    real-time. In a single test environment, LoadUI provides complete test
-    coverage and supports all the standard protocols and technologies. And
-    it&rsquo;s so powerful, it generates scalable, high-volume and real-world
-    load from any number of local and remote computers. Meet LoadUI, the future
-    of Load Testing.
-  url: 'http://www.loadui.org/About-loadUI/what-is-loadui.html'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/loadui-logo.png
-  tags: 'Load Testing,Application Testing,General'
-- slug: chakram
-  name: chakram
-  description: REST API test framework. BDD and exploits promises
-  url: 'https://github.com/dareid/chakram'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,General'
-- slug: blazemetergem
-  name: blazemeter-gem
-  description: Ruby GEM for BlazeMeter API
-  url: 'https://github.com/Blazemeter/blazemeter-gem'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'SDK,Testing,General'
-- slug: apivore
-  name: apivore
-  description: >-
-    Tests your rails API against its Swagger description of end-points, models,
-    and query parameters.
-  url: 'https://github.com/westfieldlabs/apivore/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,Swagger,OAI,General'
-- slug: dreddrack
-  name: dredd-rack
-  description: The Dredd API blueprint testing tool for your Rack applications.
-  url: 'https://github.com/gonzalo-bulnes/dredd-rack/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'API Blueprint,Testing,General'
+  tags: 'WordPress,Command Line Interface'
