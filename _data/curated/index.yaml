@@ -1,10 +1,4 @@
 ---
-- curated_id: b6c287f30d7d7e3362770fa8562d1a0d
-  item_date: "2013-08-12 00:00:00"
-  title: 'Developer Plugin 1.2.2 Released: New WP-CLI Command'
-  url: https://developer.wordpress.com/2013/08/12/developer-plugin-1-2-2-released-new-wp-cli-command/
-  domain: developer.wordpress.com
-  image: ""
 - curated_id: a2e5e3910f98426637039ee37ef37fb4
   item_date: "2015-03-19 00:00:00"
   title: Making CLI Plug-ins Better with a New Architecture
@@ -139,18 +133,18 @@
   url: https://puppetlabs.com/blog/james-pogran-learning-powershell-dsc
   domain: puppetlabs.com
   image: ""
-- curated_id: ff7aaec626e6c953913ae5e425b848d5
-  item_date: "2016-01-28 00:00:00"
-  title: Wercker raises $4.5 million, open-sources its command line tool
-  url: http://venturebeat.com/2016/01/28/wercker-raises-4-5-million-open-sources-its-command-line-tool/
-  domain: venturebeat.com
-  image: ""
 - curated_id: 378dba980552f93c43f73a759fa5577a
   item_date: "2016-01-28 00:00:00"
   title: Wercker is open sourcing its CLI tool for developers to celebrate $4.5 million
     in funding
   url: http://thenextweb.com/dd/2016/01/28/wercker-is-open-sourcing-its-cli-tool-for-developers-to-celebrate-4-5-million-in-funding/
   domain: thenextweb.com
+  image: ""
+- curated_id: ff7aaec626e6c953913ae5e425b848d5
+  item_date: "2016-01-28 00:00:00"
+  title: Wercker raises $4.5 million, open-sources its command line tool
+  url: http://venturebeat.com/2016/01/28/wercker-raises-4-5-million-open-sources-its-command-line-tool/
+  domain: venturebeat.com
   image: ""
 - curated_id: ee8d9c588bea91ffb7f4b0dc1dfe3773
   item_date: "2016-02-25 00:00:00"
@@ -182,17 +176,17 @@
   url: https://www.digitalocean.com/company/blog/introducing-doctl/
   domain: www.digitalocean.com
   image: ""
-- curated_id: b7c1400ccadbcd94e1c730cabb310a94
-  item_date: "2016-04-06 00:00:00"
-  title: Command ? Making the web better with Slack-like slash commands.
-  url: http://slashcommand.club
-  domain: slashcommand.club
-  image: ""
 - curated_id: 41334ca09714a87b1a84fe337af99125
   item_date: "2016-04-06 00:00:00"
   title: Publishing Your Skill Code to Lambda via the Command Line Interface
   url: https://developer.amazon.com/appsandservices/community/post/Tx1UE9W1NQ0GYII/Publishing-Your-Skill-Code-to-Lambda-via-the-Command-Line-Interface
   domain: developer.amazon.com
+  image: ""
+- curated_id: b7c1400ccadbcd94e1c730cabb310a94
+  item_date: "2016-04-06 00:00:00"
+  title: Command ? Making the web better with Slack-like slash commands.
+  url: http://slashcommand.club
+  domain: slashcommand.club
   image: ""
 - curated_id: a5ff996b5ee7d055895d5dc5e48e6207
   item_date: "2016-04-09 00:00:00"
@@ -212,16 +206,16 @@
   url: https://github.com/djadmin/medium-cli
   domain: github.com
   image: ""
-- curated_id: ed23998698cf490b2d2953376ab49876
-  item_date: "2016-05-18 00:00:00"
-  title: 'The Firebase CLI: now with database commands'
-  url: https://firebase.googleblog.com/2015/11/the-firebase-cli-now-with-database_82.html
-  domain: firebase.googleblog.com
-  image: ""
 - curated_id: 4488e262af2bc93642ee3bccd688f651
   item_date: "2016-05-18 00:00:00"
   title: Google Login and Firebase CLI 2.0.0
   url: https://firebase.googleblog.com/2015/10/google-login-and-firebase-cli-200_20.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: ed23998698cf490b2d2953376ab49876
+  item_date: "2016-05-18 00:00:00"
+  title: 'The Firebase CLI: now with database commands'
+  url: https://firebase.googleblog.com/2015/11/the-firebase-cli-now-with-database_82.html
   domain: firebase.googleblog.com
   image: ""
 - curated_id: 171fe7f2531d549da0a0fc43c0a0082f
@@ -349,5 +343,111 @@
   title: Google Cloud Shell New Code Editor to Enable End-to-End Cloud Development
   url: https://www.infoq.com/news/2016/10/google-cloud-shell-editor
   domain: www.infoq.com
+  image: ""
+- curated_id: c2c6f0b50209b545a6e04b8cba28a7d5
+  item_date: "2016-12-14 00:00:00"
+  title: DSC Resource Kit Release December 2016
+  url: https://blogs.msdn.microsoft.com/powershell/2016/12/14/dsc-resource-kit-release-december-2016/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: b9b44fb4e342611819dc4f7b298f563e
+  item_date: "2016-12-14 00:00:00"
+  title: U.S. jury sides with Arista over Cisco in copyright battle
+  url: http://www.reuters.com/article/us-cisco-systems-arista-networks-verdict-idUSKBN1432MQ
+  domain: www.reuters.com
+  image: ""
+- curated_id: 7ff6079f414433532526ac0d8bb18a29
+  item_date: "2016-12-14 13:16:43"
+  title: 'Tweet: Follow Snyk#039;s journey from CLI tool to full-fledged GitHub integration:
+    https://t.co/G87i3nehnn'
+  url: https://twitter.com/github/statuses/809145114652090368
+  domain: twitter.com
+  image: ""
+- curated_id: f14735374093899f561ed53da6ee6904
+  item_date: "2016-12-30 00:00:00"
+  title: 'Understanding Your Command Line Tools: Javap, Jdeps, and Jjs'
+  url: https://dzone.com/articles/command-line-tools-javap-jdeps-jjs
+  domain: dzone.com
+  image: ""
+- curated_id: 7daadd4abdb5bf4163d1a5147ae3df7f
+  item_date: "2017-01-05 17:38:20"
+  title: Command Line Data Science
+  url: https://civic.io/2015/02/03/command-line-data-science/
+  domain: civic.io
+  image: ""
+- curated_id: fe4086694fec9a5dfdbf805546c281a4
+  item_date: "2017-01-11 00:00:00"
+  title: Code Coverage now available for PowerShell Core!
+  url: https://blogs.msdn.microsoft.com/powershell/2017/01/11/code-coverage-now-available-for-powershell-core/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 08162449e128d5d0f80e5b2ff00605b2
+  item_date: "2017-01-19 00:00:00"
+  title: Announcing the LoopBack CLI!
+  url: https://strongloop.com/strongblog/announcing-the-loopback-cli/
+  domain: strongloop.com
+  image: ""
+- curated_id: 26762759694ddb959ff3bbe32039e14b
+  item_date: "2017-01-20 00:00:00"
+  title: The command-line, for cybersec
+  url: http://blog.erratasec.com/2017/01/the-command-line-for-cybersec.html
+  domain: blog.erratasec.com
+  image: ""
+- curated_id: 1c317b591be85d6f7af472d159d8a3dd
+  item_date: "2017-02-12 00:00:00"
+  title: Session Recap, PowerShell Scripts and Resources from session on Azure...
+  url: https://gotoguy.blog/2017/02/12/session-recap-powershell-scripts-and-resources-from-session-on-azure-ad-management-skills-at-nicconf-2017/
+  domain: gotoguy.blog
+  image: ""
+- curated_id: bef7ba64e33b86c7517fa398d21fb24d
+  item_date: "2017-02-15 00:00:00"
+  title: 'OptoNews: CLI, transparent windows, and more now in PAC Project R9.6'
+  url: http://blog.opto22.com/optoblog/optonews-transparent-windows-and-more-now-in-pac-project-r96
+  domain: blog.opto22.com
+  image: ""
+- curated_id: 37eb5a9828b6041ad71aeab195305a94
+  item_date: "2017-02-24 00:00:00"
+  title: PowerShell on RHEL in One Minute
+  url: https://dzone.com/articles/powershell-on-rhel-in-one-minute
+  domain: dzone.com
+  image: ""
+- curated_id: 08f71fc0bfc6922dc6b8825a05f88ea8
+  item_date: "2017-03-03 00:00:00"
+  title: Introducing Python Fire, a library for automatically generating command line
+    interfaces
+  url: https://developers.googleblog.com/2017/03/introducing-python-fire-library-for.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: a422f2cdd2376137bbf5ee886693560b
+  item_date: "2017-03-15 00:00:00"
+  title: 'PowerShell Remoting Artifacts: An Introduction'
+  url: http://resources.infosecinstitute.com/powershell-remoting-artifacts-part-1/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: a232d4781e7bfe6982f8e00c0767bd75
+  item_date: "2017-03-21 10:08:43"
+  title: 'Introducing Zapiers CLI Tool: Deploy API Integrations Fast'
+  url: https://zapier.com/engineering/zapier-command-line-interface/
+  domain: zapier.com
+  image: ""
+- curated_id: 683c7d15a065d9469b0c985b8507a5b0
+  item_date: "2017-04-25 00:00:00"
+  title: Linux Launcher turns your Android phone into command line interface
+  url: https://thenextweb.com/apps/2017/04/25/android-linux-command-line-app/
+  domain: thenextweb.com
+  image: ""
+- curated_id: dbad5f51e64b945e7ee56529b43881db
+  item_date: "2017-04-25 15:10:01"
+  title: 'Tweet: Have you checked out the #LoopBack CLI? It supports Loopback functionality
+    ndash; current amp;amp; new. @chandadharap explains.hellip; https://t.co/lSTTwwXGmq'
+  url: https://twitter.com/StrongLoop/statuses/856993727004409856
+  domain: twitter.com
+  image: ""
+- curated_id: 5395de0a91c76bfba39554c31bf47550
+  item_date: "2017-05-05 17:59:03"
+  title: Are you using the rich AWS Command Line Interface, with commands for almost
+    every AWS service?
+  url: https://twitter.com/awscloud/statuses/860660142882168832
+  domain: twitter.com
   image: ""
 ...
