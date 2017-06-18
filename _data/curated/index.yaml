@@ -1,8 +1,353 @@
 ---
-- curated_id: b1ae861d2d88ca390f93ca03310dc864
-  item_date: "2012-04-21 12:49:06"
-  title: Why Startups Need an API
-  url: https://tune.com/blog/startups-need-api/
-  domain: tune.com
+- curated_id: b6c287f30d7d7e3362770fa8562d1a0d
+  item_date: "2013-08-12 00:00:00"
+  title: 'Developer Plugin 1.2.2 Released: New WP-CLI Command'
+  url: https://developer.wordpress.com/2013/08/12/developer-plugin-1-2-2-released-new-wp-cli-command/
+  domain: developer.wordpress.com
+  image: ""
+- curated_id: a2e5e3910f98426637039ee37ef37fb4
+  item_date: "2015-03-19 00:00:00"
+  title: Making CLI Plug-ins Better with a New Architecture
+  url: https://blog.heroku.com/making_cli_plugins_better_with_a_new_architecture
+  domain: blog.heroku.com
+  image: ""
+- curated_id: d8b075b45701b6b0bac36ef8cba18ecc
+  item_date: "2015-03-20 00:00:00"
+  title: How to Use PowerShell to Call Apprenda?s REST API
+  url: https://apprenda.com/blog/how-to-use-powershell-to-call-apprendas-rest-api/
+  domain: apprenda.com
+  image: ""
+- curated_id: 13d3ce4710e9bc7f0144fad382abd882
+  item_date: "2015-04-13 17:24:56"
+  title: Now Available ? Amazon WorkSpaces API  CLI
+  url: https://aws.amazon.com/blogs/aws/now-available-amazon-workspaces-api-cli/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 53215c50a002926dc6a8c9c532536be6
+  item_date: "2015-04-20 00:00:00"
+  title: 'Understanding the Windows PowerShell Release Cycle '
+  url: http://www.informit.com/articles/article.aspx
+  domain: www.informit.com
+  image: ""
+- curated_id: 768cff88b5b49cbb145c63fa2581017f
+  item_date: "2015-05-28 00:00:00"
+  title: How to Implement Federated API and CLI Access Using SAML 2.0 and AD FS
+  url: https://blogs.aws.amazon.com/security/post/Tx1LDN0UBGJJ26Q/How-to-Implement-Federated-API-and-CLI-Access-Using-SAML-2-0-and-AD-FS
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 298afb395e6d7e78faf88e0643cfdb31
+  item_date: "2015-06-02 00:00:00"
+  title: IBM Containers Extension (ice) CLI Tutorial
+  url: http://ibmjstart.com/blog/2015/05/26/ibm-containers-extension-ice-cli-tutorial/
+  domain: ibmjstart.com
+  image: ""
+- curated_id: a12bf661328e1e6a9b6e5c47aff34e5a
+  item_date: "2015-06-08 00:00:00"
+  title: 'Run Azure CLI as a Docker Container: Avoid installation and setup'
+  url: http://azure.microsoft.com/blog/2015/06/08/run-azure-cli-as-a-docker-container-avoid-installation-and-setup/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: ecbdc443b4b1ab623215db3d815c955f
+  item_date: "2015-06-12 00:00:00"
+  title: Newman Repository has a New Location
+  url: http://blog.getpostman.com/2015/06/13/newman-repository-has-a-new-location/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 3e2f77100fdb6647b1aa094a56210606
+  item_date: "2015-08-11 00:00:00"
+  title: PowerShell module for the OMS Search API
+  url: https://azure.microsoft.com/en-us/blog/powershell-module-for-the-oms-search-api/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: e2e7cfc4791608458e6c6d4f587fb1ee
+  item_date: "2015-08-20 00:00:00"
+  title: 'Countly behind the curtains: Here?s how we make Countly a better place for
+    command-line lovers'
+  url: http://blog.count.ly/post/127181109353/countly-behind-the-curtains-heres-how-we-make#_=_
+  domain: blog.count.ly
+  image: ""
+- curated_id: a241a19f16859577084bf2f51d025b9d
+  item_date: "2015-08-28 00:00:00"
+  title: Introduction to the geo command line
+  url: https://developmentseed.org/blog/2015/08/28/geo-command-line-introduction
+  domain: developmentseed.org
+  image: ""
+- curated_id: b809f117b8175de7cc6a1fbf930a3c37
+  item_date: "2015-11-05 00:00:00"
+  title: 'The Firebase CLI: now with database commands'
+  url: https://www.firebase.com/blog/2015-11-06-firebase-cli-data-commands.html
+  domain: www.firebase.com
+  image: ""
+- curated_id: 482b3064f414ee3daf934eda61f1d829
+  item_date: "2015-11-24 00:00:00"
+  title: How to Use a Single IAM User to Easily Access All Your Accounts by Using
+    the AWS CLI
+  url: https://blogs.aws.amazon.com/security/post/Tx2KL0TCWFBBAB1/How-to-Use-a-Single-IAM-User-to-Easily-Access-All-Your-Accounts-by-Using-the-AWS
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 808189615f31dee4de4a159f41fcc03c
+  item_date: "2015-12-16 00:00:00"
+  title: Amazon Adopts SAWSs Features into aws-shell
+  url: http://www.infoq.com/news/2015/12/saws-combined-into-aws-cli
+  domain: www.infoq.com
+  image: ""
+- curated_id: b780f98dd880018b3cd1fb4b0d24bdcc
+  item_date: "2015-12-21 10:16:43"
+  title: AWS Developer Blog - Command Line
+  url: https://blogs.aws.amazon.com/cli/
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 3c9d00a49639906744ef0b1f574479ea
+  item_date: "2016-01-11 09:16:13"
+  title: Building Simple Command Line Interfaces in Python
+  url: https://stormpath.com/blog/building-simple-cli-interfaces-in-python/
+  domain: stormpath.com
+  image: ""
+- curated_id: b6b75beefda3c69882b8dd29e97f9cf0
+  item_date: "2016-01-12 00:00:00"
+  title: Top 5 Power Features of the Google Cloud CLI
+  url: http://googlecloudplatform.blogspot.com/2016/01/top-5-power-features-of-google-cloud-cli.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: 859a2dbaf0a5411ef5fa8de4423947e3
+  item_date: "2016-01-14 00:00:00"
+  title: Building an Android Command-Line Application Using the NDK Build Tools
+  url: http://www.codeproject.com/Articles/1071782/Building-an-Android-Command-Line-Application-Using
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 7058cc3c4e639c160740e00ce721e927
+  item_date: "2016-01-26 00:00:00"
+  title: Introducing BaseSpaceCLI
+  url: https://blog.basespace.illumina.com/2016/01/26/introducing-basespacecli/
+  domain: blog.basespace.illumina.com
+  image: ""
+- curated_id: 2ecafb2fcd4647cbd00738a1686870cc
+  item_date: "2016-01-27 00:00:00"
+  title: EMR 4.3.0 ? New  Updated Applications + Command Line Export
+  url: https://aws.amazon.com/blogs/aws/emr-4-3-0-new-updated-applications-command-line-export/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: fa79ba8373a6ab3176331323d8e9f024
+  item_date: "2016-01-27 00:00:00"
+  title: Exploring the Trello API with PowerShell
+  url: https://mcpmag.com/articles/2016/01/28/exploring-the-trello-api.aspx
+  domain: mcpmag.com
+  image: ""
+- curated_id: 6011b6a289a126a0b0ffc890dc0de0a0
+  item_date: "2016-01-27 00:00:00"
+  title: James Pogran on Learning PowerShell DSC
+  url: https://puppetlabs.com/blog/james-pogran-learning-powershell-dsc
+  domain: puppetlabs.com
+  image: ""
+- curated_id: ff7aaec626e6c953913ae5e425b848d5
+  item_date: "2016-01-28 00:00:00"
+  title: Wercker raises $4.5 million, open-sources its command line tool
+  url: http://venturebeat.com/2016/01/28/wercker-raises-4-5-million-open-sources-its-command-line-tool/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 378dba980552f93c43f73a759fa5577a
+  item_date: "2016-01-28 00:00:00"
+  title: Wercker is open sourcing its CLI tool for developers to celebrate $4.5 million
+    in funding
+  url: http://thenextweb.com/dd/2016/01/28/wercker-is-open-sourcing-its-cli-tool-for-developers-to-celebrate-4-5-million-in-funding/
+  domain: thenextweb.com
+  image: ""
+- curated_id: ee8d9c588bea91ffb7f4b0dc1dfe3773
+  item_date: "2016-02-25 00:00:00"
+  title: Introducing the Mapbox CLI
+  url: https://www.mapbox.com/blog/mapbox-cli-intro/
+  domain: www.mapbox.com
+  image: ""
+- curated_id: 0cad7b7fb54d2958bde5715995850739
+  item_date: "2016-03-14 00:00:00"
+  title: Introducing the PowerShell Excel Module
+  url: https://blogs.technet.microsoft.com/heyscriptingguy/2015/11/25/introducing-the-powershell-excel-module-2/
+  domain: blogs.technet.microsoft.com
+  image: ""
+- curated_id: 682795c29db102454926a13ef043872d
+  item_date: "2016-03-16 00:00:00"
+  title: Using a CLI for App Development and Deployment
+  url: https://dzone.com/articles/using-a-cli-for-app-development-and-deployment
+  domain: dzone.com
+  image: ""
+- curated_id: 2beebd275675b492c0d46c76e7d39b17
+  item_date: "2016-03-25 16:26:50"
+  title: 'GitHub - donnemartin/saws: A supercharged AWS command line interface (CLI).  http://bit.ly/git-saws'
+  url: https://github.com/donnemartin/saws
+  domain: github.com
+  image: ""
+- curated_id: 22d2bac60ded9579a7f073edaedf3b09
+  item_date: "2016-03-30 00:00:00"
+  title: 'Introducing doctl: the Command Line Interface to DigitalOcean'
+  url: https://www.digitalocean.com/company/blog/introducing-doctl/
+  domain: www.digitalocean.com
+  image: ""
+- curated_id: b7c1400ccadbcd94e1c730cabb310a94
+  item_date: "2016-04-06 00:00:00"
+  title: Command ? Making the web better with Slack-like slash commands.
+  url: http://slashcommand.club
+  domain: slashcommand.club
+  image: ""
+- curated_id: 41334ca09714a87b1a84fe337af99125
+  item_date: "2016-04-06 00:00:00"
+  title: Publishing Your Skill Code to Lambda via the Command Line Interface
+  url: https://developer.amazon.com/appsandservices/community/post/Tx1UE9W1NQ0GYII/Publishing-Your-Skill-Code-to-Lambda-via-the-Command-Line-Interface
+  domain: developer.amazon.com
+  image: ""
+- curated_id: a5ff996b5ee7d055895d5dc5e48e6207
+  item_date: "2016-04-09 00:00:00"
+  title: How To Create CLI To Announce Logged On User With Speech API (tts)
+  url: http://www.codeproject.com/Articles/1091301/How-To-Create-CLI-To-Announce-Logged-On-User-With
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 1f2d9923a8d9539f342eaeee34e07fe3
+  item_date: "2016-04-29 00:00:00"
+  title: GitHub Merge Button From CLI
+  url: https://dzone.com/articles/github-merge-button-from-cli
+  domain: dzone.com
+  image: ""
+- curated_id: e824cf917722521b8a53e26a1a8054d8
+  item_date: "2016-05-16 00:00:00"
+  title: Medium CLI ? A command line Interface for reading Medium stories
+  url: https://github.com/djadmin/medium-cli
+  domain: github.com
+  image: ""
+- curated_id: ed23998698cf490b2d2953376ab49876
+  item_date: "2016-05-18 00:00:00"
+  title: 'The Firebase CLI: now with database commands'
+  url: https://firebase.googleblog.com/2015/11/the-firebase-cli-now-with-database_82.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 4488e262af2bc93642ee3bccd688f651
+  item_date: "2016-05-18 00:00:00"
+  title: Google Login and Firebase CLI 2.0.0
+  url: https://firebase.googleblog.com/2015/10/google-login-and-firebase-cli-200_20.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 171fe7f2531d549da0a0fc43c0a0082f
+  item_date: "2016-06-21 00:00:00"
+  title: PowerShell Application - Password Manager
+  url: http://www.codeproject.com/Articles/1107067/PowerShell-Application-Password-Manager
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 13dc3dc1ee87d7f82db4b0d26c7d2ee9
+  item_date: "2016-06-26 00:00:00"
+  title: Mac CLi ? OS X command line tools for developers
+  url: https://github.com/guarinogabriel/mac-cli/
+  domain: github.com
+  image: ""
+- curated_id: 1a47e03d52d452618ad29937229775fa
+  item_date: "2016-07-06 00:00:00"
+  title: New BaseSpaceCLI Tools
+  url: https://blog.basespace.illumina.com/2016/07/06/new-basespacecli-tools/
+  domain: blog.basespace.illumina.com
+  image: ""
+- curated_id: 93ab1a8e180a7ba0ed28468bdead8ed5
+  item_date: "2016-07-19 00:00:00"
+  title: How to use the Magnolia CLI tool
+  url: https://www.magnolia-cms.com/blogs/tomas-gregovsky/detail~@how-to-use-the-magnolia-cli-tool~.html
+  domain: www.magnolia-cms.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2016-07-29 09:19:42"
+  title: A Brief History of the Command Line Free Code Camp
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 0dd55ef5721a6ac0d6c56916f88ffc57
+  item_date: "2016-08-02 00:00:00"
+  title: 'Cloud Shell now GA, and still free '
+  url: https://cloudplatform.googleblog.com/2016/08/Cloud-Shell-now-GA-and-still-free.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 1ba2dceeb6fafcb08a65c9a6e6cd5838
+  item_date: "2016-08-07 00:00:00"
+  title: An Introduction to the Logentries Command Line Interface
+  url: https://dzone.com/articles/introduction-to-the-logentries-command-line-interf
+  domain: dzone.com
+  image: ""
+- curated_id: 519ece3f2349dd633062765685ded550
+  item_date: "2016-08-08 00:00:00"
+  title: Adding the In-Memory Web API to a SystemJS-Based Angular CLI Application
+  url: https://dzone.com/articles/adding-the-in-memory-web-api-to-an-systemjs-based
+  domain: dzone.com
+  image: ""
+- curated_id: d36306215c7e126345a1b0a440caea3c
+  item_date: "2016-08-18 00:00:00"
+  title: PowerShell on Linux and Open Source!
+  url: https://blogs.msdn.microsoft.com/powershell/2016/08/18/powershell-on-linux-and-open-source-2/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: e556354a11e4cfa598a71f2b38e8dd78
+  item_date: "2016-08-18 08:50:02"
+  title: Microsoft open sources PowerShell, brings it to Linux and OS X
+  url: https://techcrunch.com/2016/08/18/microsoft-open-sources-powershell-brings-it-to-linux-and-os-x/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 35d893a23763bf5472f52e90a5d96623
+  item_date: "2016-08-25 00:00:00"
+  title: Reactotron ? A CLI  OS X app for inspecting ReactJS  React Native apps
+  url: https://github.com/reactotron/reactotron
+  domain: github.com
+  image: ""
+- curated_id: d9eed5e29123a2472fc91af9094948d4
+  item_date: "2016-08-26 00:00:00"
+  title: Have You Met the CLI?
+  url: http://codurance.com/technology/architecture/2016/08/20/meet-the-cli/
+  domain: codurance.com
+  image: ""
+- curated_id: 7b10ade76097c8f09fad4bd5217d21c1
+  item_date: "2016-08-26 00:00:00"
+  title: Getting Started and Testing With Angular CLI and Angular 2 (RC5) ? Part 2
+  url: https://dzone.com/articles/getting-started-and-testing-with-angular-cli-and-angular-2-rc5-part-2
+  domain: dzone.com
+  image: ""
+- curated_id: 46e39c090a428b2e51ee95f72dc720f5
+  item_date: "2016-08-29 00:00:00"
+  title: How to Use the cURL Command to Examine the Contents of a Web API#039;s Header
+  url: http://www.programmableweb.com/news/how-to-use-curl-command-to-examine-contents-web-apis-header/how-to/2016/08/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f7ae1c9d1f81cde62cfc38e62a002956
+  item_date: "2016-09-12 00:00:00"
+  title: 'Running Powershell on Google Cloud SDK '
+  url: https://cloudplatform.googleblog.com/2016/09/running-Powershell-on-Google-Cloud-SDK.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 8fe2b5f9fe631f682e1c00a5ef60c129
+  item_date: "2016-09-17 00:00:00"
+  title: "Hack This: Become a Command Line Assassin\r\n"
+  url: http://motherboard.vice.com/read/hack-this-a-command-line-quick-start
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 4ae3d4519d866de70d8a492e91eb4f66
+  item_date: "2016-09-21 14:08:13"
+  title: 'Check out our #webtask cli, It just doesnt get any easier'
+  url: https://webtask.io/cli
+  domain: webtask.io
+  image: ""
+- curated_id: c5281071302c315424bcef0f5bb7cd3c
+  item_date: "2016-09-30 07:28:04"
+  title: Announcing Azure Command-Line Interface (Azure CLI) 2.0 Preview
+  url: https://azure.microsoft.com/en-us/blog/announcing-azure-cli-2-preview/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 5a7fd4887c4f1856d72d114f50b9b843
+  item_date: "2016-10-04 00:00:00"
+  title: Adding a Verb to the dotnet CLI Tooling
+  url: http://www.codeproject.com/Articles/1136183/Adding-a-Verb-to-the-dotnet-CLI-Tooling
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 55667c8cad67a1dbe2e4a19fb5f9cfca
+  item_date: "2016-10-18 00:00:00"
+  title: Introducing Google Cloud Shell?s new code editor
+  url: https://cloudplatform.googleblog.com/2016/10/introducing-Google-Cloud-Shels-new-code-editor.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: b566734b916b3a72249153d0f2430ea7
+  item_date: "2016-10-21 00:00:00"
+  title: Google Cloud Shell New Code Editor to Enable End-to-End Cloud Development
+  url: https://www.infoq.com/news/2016/10/google-cloud-shell-editor
+  domain: www.infoq.com
   image: ""
 ...
