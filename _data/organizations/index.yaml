@@ -1,195 +1,226 @@
-- slug: illumina-basespace
-  name: Illumina BaseSpace
+- slug: apache-avro
+  name: Apache Avro
   description: >-
-    aseSpace Sequence Hub is a cloud-based genomics analysis and storage
-    platform that directly integrates with all Illumina sequencers.
-  url: 'http://basespace.illumina.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/basespace'
-  blog: 'http://blog.basespace.illumina.com/'
-  blog_rss: 'http://blog.basespace.illumina.com/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1428_logo.jpg
-  tags: 'Telco,Genetics,Medical,Science,Science,Command Line Interface'
-- slug: amazon-web-services
-  name: Amazon Web Services
-  description: >-
-    Amazon Web Services(AWS) is a collection of remote computing services (also
-    called web services) that together make up a cloud computing platform,
-    offered over the Internet by Amazon.com. The most central and well-known of
-    these services are Amazon EC2 and Amazon S3. The service is advertised as
-    providing a large computing capacity (potentially many servers) much faster
-    and cheaper than building a physical server farm.
-  url: 'http://aws.amazon.com'
-  short_url: ''
-  twitter: 'https://twitter.com/awscloud'
-  blog: 'http://aws.amazon.com/blogs/aws/'
-  blog_rss: 'http://feeds.feedburner.com/AmazonWebServicesBlog'
-  github: 'https://github.com/amazonwebservices'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg
-  tags: >-
-    Storage,DNS,BaaS,Payments,Hypermedia,Cloud,Compute,My API
-    Stack,Management,Voice,Partners,Plans,API LIfeycle,Real
-    Time,Serverless,Advertising,Commerce,Database,Command Line Interface,DNS
-    Cloud,Getting Started,Orchestration
-- slug: firebase
-  name: Firebase
-  description: >-
-    Firebase is a mobile platform that helps you
-    quickly&nbsp;develop&nbsp;high-quality apps,&nbsp;grow&nbsp;your user base,
-    and&nbsp;earn&nbsp;more money. Firebase is made up of complementary features
-    that you can mix-and-match to fit your needs.
-  url: 'https://firebase.google.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/firebase'
-  blog: 'https://firebase.googleblog.com/'
-  blog_rss: 'http://firebase.googleblog.com/feeds/posts/default?alt=rss'
-  github: 'https://github.com/firebase'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
-  tags: >-
-    Real Time,API LIfeycle,Database,Command Line Interface,Links,Google
-    APIs,Security,Testing,Virtualization
-- slug: heroku
-  name: Heroku
-  description: >-
-    Heroku is the first and best multi-language cloud application platform, or
-    platform-as-a-service. Heroku allows developers to deploy, scale, and manage
-    their apps without needing to think about servers or systems administration.
-    Over one million applications have been deployed to Heroku.
-  url: 'https://www.heroku.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/HerokuDevCenter'
-  blog: 'https://blog.heroku.com/'
-  blog_rss: 'http://feeds2.feedburner.com/heroku'
-  github: 'https://github.com/heroku'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
-  tags: >-
-    PaaS,Platform,My API Stack,API LIfeycle,Database,Command Line
-    Interface,Getting Started,Issues,Issues Example,Federal Government,Federal
-    Government,Federal Government,Federal Government
-- slug: werker
-  name: Werker
-  description: >-
-    Wercker is a continuous delivery platform focusing on changing the way
-    developers build and deploy their applications. This platform was built in
-    order to make developers' lives easier and enabling them to move fast and
-    make things.
-  url: 'http://wercker.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/wercker'
-  blog: 'http://blog.wercker.com/'
-  blog_rss: 'http://blog.wercker.com/rss.xml'
-  github: 'https://github.com/wercker'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/werker-logo.png
-  tags: 'Microservices,Orchestration,Containers,Command Line Interface'
-- slug: microsoft-azure
-  name: Microsoft Azure
-  description: >-
-    Microsoft Azure is a cloud computing platform and infrastructure created by
-    Microsoft for building, deploying, and managing applications and services
-    through a global network of Microsoft-managed datacenters. It provides both
-    PaaS and IaaS services and supports many different programming languages,
-    tools and frameworks, including both Microsoft-specific and third-party
-    software and systems
-  url: 'https://azure.microsoft.com/en-us/'
-  short_url: ''
-  twitter: 'https://twitter.com/azure'
-  blog: 'http://azure.microsoft.com/blog/'
-  blog_rss: 'http://azure.microsoft.com/blog/feed/'
-  github: 'https://github.com/Azure'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png
-  tags: >-
-    Management,API Management
-    Other,Deployment,Compute,Database,Serverless,Portal,Command Line
-    Interface,DNS,DNS Cloud,Reliability,Service Level Agreement,Cloud,Bigcos
-- slug: docker
-  name: Docker
-  description: >-
-    Docker is an open platform for developers and sysadmins to build, ship, and
-    run distributed applications. Consisting of Docker Engine, a portable,
-    lightweight runtime and packaging tool, and Docker Hub, a cloud service for
-    sharing applications and automating workflows, Docker enables apps to be
-    quickly assembled from components and eliminates the friction between
-    development, QA, and production environments. As a result, IT can ship
-    faster and run the same app, unchanged, on laptops, data center VMs, and any
-    cloud.
-  url: 'https://www.docker.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/docker'
-  blog: 'http://blog.docker.com/'
-  blog_rss: 'http://blog.docker.com/feed/'
-  github: 'https://github.com/docker'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/docker.png
-  tags: 'Containers,My API Stack,Command Line Interface'
-- slug: tutum
-  name: Tutum
-  description: >-
-    Tutum lets developers easily manage and run lightweight, portable,
-    self-sufficient containers from any application. The same container that a
-    developer builds and tests on a laptop can run at scale in Tutum. Their
-    solution offers users the best capabilities and features of IaaS and PaaS,
-    without the shortcomings or disadvantages of either one.
-  url: 'https://www.tutum.co/'
-  short_url: ''
-  twitter: 'https://twitter.com/tutumcloud'
-  blog: 'http://blog.tutum.co/'
-  blog_rss: 'http://blog.tutum.co/feed/'
-  github: 'https://github.com/tutumcloud'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tatum-logo.png
-  tags: 'Containers,Microservices,Orchestration,Command Line Interface'
-- slug: wpcli
-  name: WP-CLI
-  description: >-
-    WP-CLI is a set of command-line tools for managing WordPress installations.
-    You can update plugins, configure multisite installs and much more, without
-    using a web browser.
-  url: 'https://wp-cli.org/'
-  short_url: ''
-  twitter: 'https://twitter.com/wpcli'
-  blog: 'https://wp-cli.org/blog/'
-  blog_rss: 'https://wp-cli.org/atom.xml'
-  github: 'https://github.com/wp-cli'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Command_line_interface_for_WordPress___WP-CLI.png
-  tags: 'Command Line Interface,WordPress'
-- slug: apache-commons-cli
-  name: Apache Commons CLI
-  description: >-
-    The Apache Commons CLI library provides an API for parsing command line
-    options passed to programs. It's also able to print help messages detailing
-    the options available for a command line tool.
-  url: 'https://commons.apache.org/proper/commons-cli/'
+    Apache Avro is a data serialization system. Avro relies on schemas. When
+    Avro data is read, the schema used when writing it is always present. This
+    permits each datum to be written with no per-value overheads, making
+    serialization both fast and small. This also facilitates use with dynamic,
+    scripting languages, since data, together with its schema, is fully
+    self-describing.
+  url: 'https://avro.apache.org/docs/current/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Commons_CLI.png
-  tags: 'Command Line Interface,CLI'
-- slug: microsoft-powershell
-  name: Microsoft Powershell
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-avro.png
+  tags: Definitions
+- slug: api-blueprint
+  name: API Blueprint
   description: >-
-    PowerShell is an automation platform and scripting language for Windows and
-    Windows Server that allows you to simplify the management of your systems.
-    Unlike other text-based shells, PowerShell harnesses the power of the .NET
-    Framework, providing rich objects and a massive set of built-in
-    functionality for taking control of your Windows environments.&nbsp;
-  url: 'https://msdn.microsoft.com/en-us/powershell/mt173057.aspx'
+    API Blueprint is a documentation-oriented API description language. A couple
+    of semantic assumptions over the plain Markdown. API Blueprint is perfect
+    for designing your Web API and its comprehensive documentation but also for
+    quick prototyping and collaboration. It is easy to learn and even easier to
+    read &ndash; after all it is just a form of plain text.
+  url: 'https://apiblueprint.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/apiblueprint'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/apiaryio/api-blueprint'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiblueprint-logo-2.png
+  tags: Definitions
+- slug: api-transformer
+  name: API Transformer
+  description: >-
+    Transform API Descriptions from/to various formats e.g., Swagger, API
+    Blueprint, RAML, WADL, Google Discovery, I/O Docs. Please contact us for
+    production and high volume usage.
+  url: 'https://apitransformer.com/'
   short_url: ''
   twitter: ''
-  blog: 'https://blogs.msdn.microsoft.com/powershell/'
-  blog_rss: 'https://blogs.msdn.microsoft.com/powershell/feed/'
-  github: 'https://github.com/powershell'
+  blog: ''
+  blog_rss: ''
+  github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/PowerShell
-    logo.png
-  tags: Command Line Interface
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-transformer-screenshot.png
+  tags: 'Definitions,Conversion,My API Stack'
+- slug: elastic-path
+  name: Elastic Path
+  description: >-
+    Elastic Path builds commerce software that powers the next generation of
+    digital experiences, helping businesses generate more revenue from their
+    goods, services, and content. Our products, including Commerce Engine,
+    Cortex, and Subscriptions, enable companies to unite discovery, buying, and
+    consumption into outstanding customer experiences that drive more engagement
+    and conversion.
+  url: 'http://www.elasticpath.com'
+  short_url: ''
+  twitter: 'https://twitter.com/elasticpath'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/elasticpath'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/elastic-path.jpeg
+  tags: 'Enterprise,Retail,Commerce,Hypermedia,API LIfeycle,Definitions'
+- slug: frictionless-data
+  name: Frictionless Data
+  description: >-
+    Data Packages are a lightweight containerization format for data. They
+    provide the foundation for frictionless data transport.&nbsp;Tools and
+    integrations to make it easy to integrate Data Packages into your data
+    processing and publishing workflows.&nbsp;Learn how to get started using and
+    developing with Data Packages through our guides, tutorials and
+    documentation.
+  url: 'http://specs.frictionlessdata.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/frictionlessdata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frictionlessdata-logo.png
+  tags: 'Data,Schema,Definitions'
+- slug: postman
+  name: Postman
+  description: >-
+    Postman on Chrome is the most efficient way to test, develop and document
+    APIs. Create complex requests, go back in time and view results in a
+    beautiful way. Postman has more than 80 features to help you at every
+    step.&nbsp;Our user base is growing rapidly and with more tools in the
+    pipeline, Postman aims to provide the most comprehensive API development and
+    testing solution to developers.
+  url: 'http://www.getpostman.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/postmanclient'
+  blog: 'http://blog.getpostman.com/'
+  blog_rss: 'http://blog.getpostman.com/index.php/feed/'
+  github: 'https://github.com/postmanlabs'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
+  tags: 'Clients, Testing, Definitions'
+- slug: google-api-discovery-service
+  name: Google API Discovery Service
+  description: >-
+    You can use the Google API Discovery Service to build client libraries, IDE
+    plugins, and other tools that interact with Google APIs. It provides a
+    lightweight, JSON-based API that exposes machine-readable metadata about
+    Google APIs.
+  url: 'https://developers.google.com/discovery/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-03-16 at 9.06.47 PM.png
+  tags: 'Discovery,Google APIs,Definitions'
+- slug: odata.org
+  name: OData
+  description: >-
+    OData (Open Data Protocol) is an OASIS standard that defines the best
+    practice for building and consuming RESTful APIs. OData helps you focus on
+    your business logic while building RESTful APIs without having to worry
+    about the approaches to define request and response headers, status codes,
+    HTTP methods, URL conventions, media types, payload formats and query
+    options etc.
+  url: 'http://www.odata.org/'
+  short_url: 'http://apis.how/byirz5zgt7'
+  twitter: 'https://twitter.com/odataorg'
+  blog: 'http://www.odata.org/blog/'
+  blog_rss: ''
+  github: 'https://github.com/odata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/odata-logo.png
+  tags: Definitions
+- slug: openapi-spec
+  name: OpenAPIs
+  description: >-
+    The Open API Initiative (OAI) was created by a consortium of forward-looking
+    industry experts who recognize the immense value of standardizing on how
+    REST APIs are described. As an open governance structure under the Linux
+    Foundation, the OAI is focused on creating, evolving and promoting a vendor
+    neutral description format. SmartBear Software is donating the Swagger
+    Specification directly to the OAI as the basis of this Open Specification.
+    &nbsp;
+  url: 'https://openapis.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/openapispec'
+  blog: 'https://openapis.org/news-faq/blog'
+  blog_rss: 'https://www.openapis.org/feed'
+  github: 'https://github.com/OAI'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oai-logo.png
+  tags: Definitions
+- slug: raml
+  name: RAML
+  description: >-
+    RESTful API Modeling Language (RAML) is a simple and succinct way of
+    describing practically-RESTful APIs. It encourages reuse, enables discovery
+    and pattern-sharing, and aims for merit-based emergence of best practices.
+    The goal is to help our current API ecosystem by solving immediate problems
+    and then encourage ever-better API patterns. RAML is built on broadly-used
+    standards such as YAML and JSON and is a non-proprietary, vendor-neutral
+    open spec.
+  url: 'http://raml.org/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://open-raml.blogspot.com/'
+  blog_rss: 'http://open-raml.blogspot.com/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/raml-logo.jpg
+  tags: Definitions
+- slug: ''
+  name: RESTdesc
+  description: >-
+    Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture
+    the functionality of hypermedia APIs, so automated agents can use them.
+    Despite their powerful capabilities, RESTdesc descriptions are easy to
+    master. Description is not a goal in itself: you want your API to be used.
+    See how RESTdesc opens up your API for discovery, based on its functional
+    characteristics.
+  url: 'http://restdesc.org/'
+  short_url: 'http://apis.how/vymksgxgfl'
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restdesc-logo.png
+  tags: Definitions
+- slug: schema.org
+  name: Schema.org
+  description: >-
+    Schema.org is a collaborative, community activity with a mission to create,
+    maintain, and promote schemas for structured data on the Internet, on web
+    pages, in email messages, and beyond. Schema.org vocabulary can be used with
+    many different encodings, including RDFa, Microdata and JSON-LD.&nbsp;
+  url: 'http://schema.org'
+  short_url: ''
+  twitter: ''
+  blog: 'http://blog.schema.org/'
+  blog_rss: 'http://blog.schema.org/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/schema-org-logo.jpeg
+  tags: 'Definitions, Schema'
+- slug: u.s.-data-federation
+  name: U.S. Data Federation
+  description: >-
+    The U.S. Data Federation supports data interoperability and harmonization
+    across Federal, state, and local government agencies by highlighting common
+    data formats, API specifications, and metadata vocabularies.
+  url: 'http://federation.data.gov/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usdf-logo.png
+  tags: 'Federal Government,Definitions'
