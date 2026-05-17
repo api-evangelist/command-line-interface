@@ -2,7 +2,7 @@ aid: command-line-interface
 url: >-
   https://raw.githubusercontent.com/api-evangelist/command-line-interface/refs/heads/main/apis.yml
 name: Command Line Interface
-x-type: topic
+kind: topic
 description: >-
   Command Line Interface (CLI) is a text-based way of interacting with software
   by typing commands at a prompt. Modern CLI design draws on decades of UNIX
