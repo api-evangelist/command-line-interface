@@ -11,7 +11,7 @@ description: >-
   and progressive disclosure of complexity. CLIs remain a central surface for
   developer tools, infrastructure automation, package managers, build systems,
   and anything that benefits from scripting and composition.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Automation
   - CLI
