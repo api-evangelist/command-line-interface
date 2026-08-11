@@ -169,6 +169,8 @@ apis:
       - Establishing tone and output conventions for a new CLI
       - Comparing alternative approaches to error reporting and progress
 common:
+  - type: IssueTracker
+    url: https://github.com/cli-guidelines/cli-guidelines/issues
   - type: DomainSecurity
     url: security/command-line-interface-domain-security.yml
   - type: Website
