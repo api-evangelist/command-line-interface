@@ -37,7 +37,7 @@ tags:
   - UNIX
 created: '2025-01-01'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: command-line-interface:design-guidelines
     name: Command Line Interface Guidelines
