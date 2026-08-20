@@ -34,6 +34,17 @@ tags:
   - Shell
   - Terminal
   - Tooling
+  - Unix
+tags_raw:
+  - Automation
+  - CLI
+  - Command Line
+  - Developer Experience
+  - Developer Tools
+  - Scripting
+  - Shell
+  - Terminal
+  - Tooling
   - UNIX
 created: '2025-01-01'
 modified: '2026-04-28'
@@ -50,6 +61,12 @@ apis:
     humanURL: https://clig.dev/
     baseURL: https://clig.dev
     tags:
+      - Best Practices
+      - CLI Design
+      - Developer Experience
+      - Guidelines
+      - Open-Source
+    tags_raw:
       - Best Practices
       - CLI Design
       - Developer Experience
@@ -87,6 +104,11 @@ apis:
       - Conventions
       - POSIX
       - Standards
+      - Unix
+    tags_raw:
+      - Conventions
+      - POSIX
+      - Standards
       - UNIX
     properties:
       - type: Specification
@@ -113,6 +135,11 @@ apis:
     humanURL: https://github.com/agarrharr/awesome-cli-apps
     baseURL: https://github.com
     tags:
+      - Frameworks
+      - Libraries
+      - Open-Source
+      - Tooling
+    tags_raw:
       - Frameworks
       - Libraries
       - Open Source
