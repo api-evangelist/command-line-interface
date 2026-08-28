@@ -11,6 +11,17 @@ description: >-
   and progressive disclosure of complexity. CLIs remain a central surface for
   developer tools, infrastructure automation, package managers, build systems,
   and anything that benefits from scripting and composition.
+deliveryModel:
+  model: unknown
+  open_source: unknown
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - repository-unlicensed
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
