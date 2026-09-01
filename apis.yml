@@ -45,7 +45,7 @@ tags:
   - Shell
   - Terminal
   - Tooling
-  - UNIX
+  - Unix
 tags_raw:
   - Automation
   - CLI
@@ -115,7 +115,7 @@ apis:
       - Conventions
       - POSIX
       - Standards
-      - UNIX
+      - Unix
     tags_raw:
       - Conventions
       - POSIX
