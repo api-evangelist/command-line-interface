@@ -146,7 +146,7 @@ apis:
     humanURL: https://github.com/agarrharr/awesome-cli-apps
     baseURL: https://github.com
     tags:
-      - Frameworks
+      - Framework
       - Libraries
       - Open-Source
       - Tooling
