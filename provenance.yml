@@ -6,6 +6,9 @@ artifacts:
   finops/command-line-interface-finops.yml:
     method: generated
     evidence: declared in the artifact
+  front-door-ai/2026-09-17.yml:
+    method: unknown
+    evidence: no authorship recorded
   plans/command-line-interface-plans-pricing.yml:
     method: generated
     evidence: declared in the artifact
