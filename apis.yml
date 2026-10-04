@@ -13,14 +13,17 @@ description: >-
   and anything that benefits from scripting and composition.
 deliveryModel:
   model: unknown
+  license_evidence:
+    not_product:
+    - cli-guidelines/cli-guidelines
   open_source: unknown
   commercial: false
   callable_host: false
   label: Delivery model not determined — needs a product licence on record
   confidence: low
   source:
-  - repository-unlicensed
-  generated: '2026-08-28'
+  - repository-not-product
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: freemium
@@ -70,19 +73,19 @@ apis:
       output, errors, help, configuration, subcommands, and interactivity.
       A practical reference for designing modern command line tools.
     humanURL: https://clig.dev/
-    baseURL: https://clig.dev
     tags:
       - Best Practices
       - CLI Design
       - Developer Experience
       - Guidelines
-      - Open-Source
+      - Open Source
     tags_raw:
       - Best Practices
       - CLI Design
       - Developer Experience
       - Guidelines
       - Open Source
+      - Open-Source
     properties:
       - type: Documentation
         url: https://clig.dev/
@@ -147,14 +150,15 @@ apis:
     baseURL: https://github.com
     tags:
       - Framework
-      - Libraries
-      - Open-Source
+      - Library
+      - Open Source
       - Tooling
     tags_raw:
       - Frameworks
       - Libraries
       - Open Source
       - Tooling
+      - Open-Source
     properties:
       - type: Reference
         url: https://github.com/spf13/cobra
