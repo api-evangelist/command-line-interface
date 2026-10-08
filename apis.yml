@@ -211,6 +211,12 @@ apis:
       - Establishing tone and output conventions for a new CLI
       - Comparing alternative approaches to error reporting and progress
 common:
+  - type: Plans
+    url: plans/command-line-interface-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/command-line-interface-rate-limits.yml
+  - type: FinOps
+    url: finops/command-line-interface-finops.yml
   - type: IssueTracker
     url: https://github.com/cli-guidelines/cli-guidelines/issues
   - type: DomainSecurity
